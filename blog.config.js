@@ -12,8 +12,8 @@ const BLOG = {
 
   AUTHOR: '夜火/xloong', // 作者
   BIO: '擅长复制粘贴', // 作者简介
-  LINK: 'https://blog.15897.com', // 网站地址
-  KEYWORDS: 'Notion, 博客', // 网站关键词 英文逗号隔开
+  LINK: 'http://blog.15897.com', // 网站地址
+  KEYWORDS: 'Notion, 博客, 夜火, xloong', // 网站关键词 英文逗号隔开
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: '', // 邮箱
   CONTACT_WEIBO: '', // 你的微博个人主页
