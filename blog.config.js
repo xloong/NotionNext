@@ -11,7 +11,7 @@ const BLOG = {
   APPEARANCE: 'light', // ['light', 'dark', 'auto'], // light 日间模式 ， dark夜间模式， auto根据时间和主题自动夜间模式
 
   AUTHOR: '夜火/xloong', // 作者
-  BIO: '擅长复制粘贴', // 作者简介
+  BIO: '擅长复制粘贴的码农', // 作者简介
   LINK: 'http://blog.15897.com', // 网站地址
   KEYWORDS: 'Notion, 博客, 夜火, xloong', // 网站关键词 英文逗号隔开
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
