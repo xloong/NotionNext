@@ -1,2 +1,25 @@
 /* 静态文件导入 自定义样式*/
 
+.notion-h:before {
+    --tw-text-opacity: 1;
+    background: rgb(22 163 74/var(--tw-text-opacity));
+    color: transparent;
+    content: ".";
+    margin-right: 0.3em;
+    display: inline-block;
+}
+.notion-h.notion-h1:before{
+    width: 0.4em;
+}
+.notion-h.notion-h2:before{
+    width: 0.3em;
+}
+.notion-h.notion-h3:before{
+    width: 0.2em;
+}
+
+.notion-h.notion-h1{
+    padding-bottom:0;
+    padding-left:0;
+    border-bottom-color: #16A34A;
+}
